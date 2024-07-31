@@ -1,0 +1,14 @@
+[
+{
+	"expr_list":"5.08 cm in inch",
+	"precision":2,
+	"expected_list":"2 inch"
+},
+{
+	"expr_list": "[hyp(a, b) = sqrt(a^2 + b^2), hyp(3, 4)]",
+	"precision":1,
+	"expected_list":"[hyp(a, b), 5]"
+}
+]
+
+
